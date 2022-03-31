@@ -1,1 +1,1 @@
-This first readme
+*This file is mandatory in project*
