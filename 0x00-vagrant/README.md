@@ -1,2 +1,1 @@
 O-hello_ubuntu
-Linux
